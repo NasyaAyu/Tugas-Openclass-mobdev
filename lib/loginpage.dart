@@ -129,7 +129,7 @@ class _LoginPageState extends State<LoginPage>{
               padding: EdgeInsets.only(top: 20, bottom: 20, left: 100, right: 100)
               ),
               onPressed: () {
-                if (unameController.text == "pacil" && pwController.text == "12345"){
+                if (unameController.text == "Ristek" && pwController.text == "123456"){
                   Navigator.push(
                     context,
                     MaterialPageRoute(
